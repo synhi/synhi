@@ -1,0 +1,1 @@
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=synhi&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR)](https://github.com/synhi)[![](https://github-readme-stats.vercel.app/api/?username=synhi&show_icons=true&count_private=true&line_height=28&hide_border=1&card_width=450&role=OWNER,COLLABORATOR)](https://github.com/synhi)
